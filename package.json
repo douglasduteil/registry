@@ -1,0 +1,26 @@
+{
+  "name": "registry",
+  "version": "1.0.0",
+  "description": "The jspm registry and package.json override service",
+  "main": " endpoints.json, registry.json",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jspm/registry.git"
+  },
+  "keywords": [
+    "jspm"
+  ],
+  "author": "",
+  "license": " ",
+  "bugs": {
+    "url": "https://github.com/jspm/registry/issues"
+  },
+  "homepage": "https://github.com/jspm/registry",
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.1.0"
+  }
+}
