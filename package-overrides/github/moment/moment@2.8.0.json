@@ -1,0 +1,9 @@
+{
+  "files": ["moment.js", "locale"],
+  "dependencyMap": {
+    "moment": "./moment"
+  },
+  "buildConfig": {
+    "uglify": true
+  }
+}
